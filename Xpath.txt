@@ -1,0 +1,19 @@
+tag[@attribute='Value']
+tag[contains(@attribute='value')]
+
+
+tag[text()='value']
+tag[starting-with(@id,'message')]
+tag[@attribute='value'or attribute='value']
+tag[@attribute='value' and @attribut='value']
+
+xpath axes:
+ancestor 
+parent
+child
+parent
+preceding
+following
+self
+descendent
+
